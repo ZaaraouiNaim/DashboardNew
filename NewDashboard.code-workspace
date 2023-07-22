@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "../HTML_CSS_Tutorials/ComingSoonWebsite"
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.resolveGlobalModules": true,
+    "liveServer.settings.multiRootWorkspaceName": "Typewriter"
+  }
+}
