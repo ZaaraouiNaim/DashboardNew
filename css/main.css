@@ -1821,7 +1821,7 @@ body.dark .switch::before {
 
 .footer .copyright {
   color: var(--black-color);
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.6;
   text-align: center;
 }
@@ -1857,7 +1857,7 @@ body.dark .switch::before {
 
 .soon .soon-container p {
   color: var(--black-color);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 500;
   max-width: 500px;
   line-height: 1.6;
